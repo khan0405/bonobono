@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ticker cols="16" rows="1">
+	<text in="slideright" pause="1" color="6" delay="3" h-adjust="9" blink-delay="2"> 축! `k찌영`k님 `r네이버`r 입사! $a</text>
+</ticker>
