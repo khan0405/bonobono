@@ -13,7 +13,9 @@ var SCREEN_WIDTH = window.innerWidth,
 	rockets = [],
 	MAX_PARTICLES = 400,
 	colorCode = 0;
-
+canvas.style.zIndex = -1;
+canvas.style.position = 'absolute';
+canvas.style.top = 0;
 // init
 $(document).ready(function () {
 	document.body.appendChild(canvas);
