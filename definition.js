@@ -1,5 +1,5 @@
 // User defninition
-
+var img_standby = 0;
 // 0: Red, 1: Orange, 2: Yellow, 3: Green Yellow, 4: Green, 5: Aqua Green,
 // 6: Cyan, 7: Skyblue, 8: Blue, 9: Purple, 10: Magenta, 11: Pink, 12: White
 var text_colors = [{"norm": "#ff0000",  "high": "#ff5555"}, 
